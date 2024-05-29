@@ -63,3 +63,5 @@ function(){
 
 <!--- Esto es un comentario -->
 Esto es un ejemplo para ignorar la funcionalidad de los carácteres: \*\*negrita\*\*
+
+# Esto también es un curso de _Git_ y _GitHub_
